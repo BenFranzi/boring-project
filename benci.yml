@@ -1,0 +1,13 @@
+snapshots:
+  - name: button-primary
+    path: iframe.html?args=&id=example-button--primary&viewMode=story
+    width: 200
+    height: 200
+  - name: button-secondary
+    path: iframe.html?args=&id=example-button--secondary&viewMode=story
+    width: 200
+    height: 200
+  - name: button-large
+    path: iframe.html?args=&id=example-button--large&viewMode=story
+    width: 200
+    height: 200
